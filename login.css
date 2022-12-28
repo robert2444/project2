@@ -1,0 +1,35 @@
+body {
+    background-color: #e35869;
+}
+.qw {
+
+    background-color: whitesmoke;
+    width: 500px;
+    height: 250px;
+    padding: 30px;
+}
+.qw {
+    background: #fff;
+    width: 500px;
+    margin: 65px auto;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    border-radius: 4px;
+}
+.yy {
+    width: 100px;
+    height: 25px;
+    color: white;
+    background-color: rgb(69, 65, 65);
+    border-radius: 4px;
+}
+h1 {
+    border: solid rgb(47, 47, 49);
+    background-color: rgb(142, 133, 240);
+}
+.ww {
+    font-size: 20px;
+}
